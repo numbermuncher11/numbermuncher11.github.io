@@ -1,4 +1,5 @@
-# numbermuncher11.github.io
+# Ngan Tran's GitHub page
+
 Welcome to my GitHub repository!
 
 Here are some links to my projects:
