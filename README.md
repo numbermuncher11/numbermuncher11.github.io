@@ -6,7 +6,7 @@ Here are some links to my data analysis projects:
 
 <a href="https://numbermuncher11.github.io/statistical-edge-for-futures-trading/">Using R to find a statistical edge in trading </a>
 
-<a href="https://numbermuncher11.github.io/Volatility_Correlation/">How to use correlations to predict intraday volatility</a> 
+<a href="https://numbermuncher11.github.io/Volatility_Correlations/">How to use correlations to predict intraday volatility</a> 
 
 <a href="https://numbermuncher11.github.io/Lego/">A Look at all the Lego pieces ever made!</a>
 
